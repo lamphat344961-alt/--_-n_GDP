@@ -1,0 +1,8 @@
+raw :  # Những dữ liệu gốc (chưa qua xử lý)
+processed :  # Dữ liệu đã làm sạch, sẵn sàng cho ML
+----
+crawl_data.ipynb : # code crawl dữ liệu từ wed
+preprocessing.ipynb : # Xử lý dữ liệu
+analysis_visualization.ipynb : # Trực quan dữ liệu đã xử lý
+machine_learning.ipynb : # ML 
+----
